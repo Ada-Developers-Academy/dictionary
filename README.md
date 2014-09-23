@@ -1,0 +1,4 @@
+dictionary
+==========
+
+Scrabble Dictionary Exercise
